@@ -1,0 +1,6 @@
+
+    (0.6, 0.9, 1.0, 0.6),   # Light sky blue, semi-transparent
+    (0.7, 0.95, 0.9, 0.6),  # Mint green, semi-transparent
+    (0.9, 0.8, 1.0, 0.6),   # Lavender, semi-transparent
+    (1.0, 0.9, 0.95, 0.6)   # Light pink, semi-transparent
+
